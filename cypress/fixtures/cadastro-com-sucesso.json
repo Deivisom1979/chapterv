@@ -1,0 +1,9 @@
+{
+    "user": {
+      "email": "Deivisom1979@mail.com",
+      "username": "Deivisom1979",
+      "bio": null,
+      "image": "https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkRlaXZpc29tMTk3OUBtYWlsLmNvbSIsInVzZXJuYW1lIjoiRGVpdmlzb20xOTc5IiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vcmVhbHdvcmxkLXRlbXAtYXBpLmhlcm9rdWFwcC5jb20vaW1hZ2VzL3NtaWxleS1jeXJ1cy5qcGVnIiwiaWF0IjoxNjM0Njg1MzkzLCJleHAiOjE2Mzk4NjkzOTN9.g6yi_l4fsSsmVJayrpDZdvGom4yL6gJ3SDGMqCgxFoU"
+    }
+  }
